@@ -24,6 +24,9 @@
     "type": "git",
     "url": "https://github.com/jzillmann/pdf-to-markdown"
   },
+  "bin": {
+    "pdf-to-md-batch": "./src/cli.js"
+  },
   "dependencies": {
     "bootstrap": "^3.3.7",
     "enumify": "^1.0.4",
